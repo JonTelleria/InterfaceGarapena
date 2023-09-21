@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ariketa1(esaldiak lotu)/1.0.0": {
+        "runtime": {
+          "Ariketa1(esaldiak lotu).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ariketa1(esaldiak lotu)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

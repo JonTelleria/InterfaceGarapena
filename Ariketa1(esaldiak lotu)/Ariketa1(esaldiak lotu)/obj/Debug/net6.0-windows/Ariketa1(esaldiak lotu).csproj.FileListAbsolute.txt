@@ -1,0 +1,16 @@
+C:\Users\Jon\Desktop\Interfaze Garapena\VS\Ariketa1(esaldiak lotu)\Ariketa1(esaldiak lotu)\bin\Debug\net6.0-windows\Ariketa1(esaldiak lotu).exe
+C:\Users\Jon\Desktop\Interfaze Garapena\VS\Ariketa1(esaldiak lotu)\Ariketa1(esaldiak lotu)\bin\Debug\net6.0-windows\Ariketa1(esaldiak lotu).deps.json
+C:\Users\Jon\Desktop\Interfaze Garapena\VS\Ariketa1(esaldiak lotu)\Ariketa1(esaldiak lotu)\bin\Debug\net6.0-windows\Ariketa1(esaldiak lotu).runtimeconfig.json
+C:\Users\Jon\Desktop\Interfaze Garapena\VS\Ariketa1(esaldiak lotu)\Ariketa1(esaldiak lotu)\bin\Debug\net6.0-windows\Ariketa1(esaldiak lotu).dll
+C:\Users\Jon\Desktop\Interfaze Garapena\VS\Ariketa1(esaldiak lotu)\Ariketa1(esaldiak lotu)\bin\Debug\net6.0-windows\Ariketa1(esaldiak lotu).pdb
+C:\Users\Jon\Desktop\Interfaze Garapena\VS\Ariketa1(esaldiak lotu)\Ariketa1(esaldiak lotu)\obj\Debug\net6.0-windows\Ariketa1_esaldiak_lotu_.Form1.resources
+C:\Users\Jon\Desktop\Interfaze Garapena\VS\Ariketa1(esaldiak lotu)\Ariketa1(esaldiak lotu)\obj\Debug\net6.0-windows\Ariketa1(esaldiak lotu).csproj.GenerateResource.cache
+C:\Users\Jon\Desktop\Interfaze Garapena\VS\Ariketa1(esaldiak lotu)\Ariketa1(esaldiak lotu)\obj\Debug\net6.0-windows\Ariketa1(esaldiak lotu).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jon\Desktop\Interfaze Garapena\VS\Ariketa1(esaldiak lotu)\Ariketa1(esaldiak lotu)\obj\Debug\net6.0-windows\Ariketa1(esaldiak lotu).AssemblyInfoInputs.cache
+C:\Users\Jon\Desktop\Interfaze Garapena\VS\Ariketa1(esaldiak lotu)\Ariketa1(esaldiak lotu)\obj\Debug\net6.0-windows\Ariketa1(esaldiak lotu).AssemblyInfo.cs
+C:\Users\Jon\Desktop\Interfaze Garapena\VS\Ariketa1(esaldiak lotu)\Ariketa1(esaldiak lotu)\obj\Debug\net6.0-windows\Ariketa1(esaldiak lotu).csproj.CoreCompileInputs.cache
+C:\Users\Jon\Desktop\Interfaze Garapena\VS\Ariketa1(esaldiak lotu)\Ariketa1(esaldiak lotu)\obj\Debug\net6.0-windows\Ariketa1(esaldiak lotu).dll
+C:\Users\Jon\Desktop\Interfaze Garapena\VS\Ariketa1(esaldiak lotu)\Ariketa1(esaldiak lotu)\obj\Debug\net6.0-windows\refint\Ariketa1(esaldiak lotu).dll
+C:\Users\Jon\Desktop\Interfaze Garapena\VS\Ariketa1(esaldiak lotu)\Ariketa1(esaldiak lotu)\obj\Debug\net6.0-windows\Ariketa1(esaldiak lotu).pdb
+C:\Users\Jon\Desktop\Interfaze Garapena\VS\Ariketa1(esaldiak lotu)\Ariketa1(esaldiak lotu)\obj\Debug\net6.0-windows\Ariketa1(esaldiak lotu).genruntimeconfig.cache
+C:\Users\Jon\Desktop\Interfaze Garapena\VS\Ariketa1(esaldiak lotu)\Ariketa1(esaldiak lotu)\obj\Debug\net6.0-windows\ref\Ariketa1(esaldiak lotu).dll

@@ -1,0 +1,16 @@
+C:\Users\Jon\Desktop\Interfaze Garapena\VS\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\bin\Debug\net6.0-windows\OinarrizkoKalkulagailua.exe
+C:\Users\Jon\Desktop\Interfaze Garapena\VS\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\bin\Debug\net6.0-windows\OinarrizkoKalkulagailua.deps.json
+C:\Users\Jon\Desktop\Interfaze Garapena\VS\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\bin\Debug\net6.0-windows\OinarrizkoKalkulagailua.runtimeconfig.json
+C:\Users\Jon\Desktop\Interfaze Garapena\VS\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\bin\Debug\net6.0-windows\OinarrizkoKalkulagailua.dll
+C:\Users\Jon\Desktop\Interfaze Garapena\VS\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\bin\Debug\net6.0-windows\OinarrizkoKalkulagailua.pdb
+C:\Users\Jon\Desktop\Interfaze Garapena\VS\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\obj\Debug\net6.0-windows\OinarrizkoKalkulagailua.Form1.resources
+C:\Users\Jon\Desktop\Interfaze Garapena\VS\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\obj\Debug\net6.0-windows\OinarrizkoKalkulagailua.csproj.GenerateResource.cache
+C:\Users\Jon\Desktop\Interfaze Garapena\VS\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\obj\Debug\net6.0-windows\OinarrizkoKalkulagailua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jon\Desktop\Interfaze Garapena\VS\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\obj\Debug\net6.0-windows\OinarrizkoKalkulagailua.AssemblyInfoInputs.cache
+C:\Users\Jon\Desktop\Interfaze Garapena\VS\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\obj\Debug\net6.0-windows\OinarrizkoKalkulagailua.AssemblyInfo.cs
+C:\Users\Jon\Desktop\Interfaze Garapena\VS\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\obj\Debug\net6.0-windows\OinarrizkoKalkulagailua.csproj.CoreCompileInputs.cache
+C:\Users\Jon\Desktop\Interfaze Garapena\VS\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\obj\Debug\net6.0-windows\OinarrizkoKalkulagailua.dll
+C:\Users\Jon\Desktop\Interfaze Garapena\VS\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\obj\Debug\net6.0-windows\refint\OinarrizkoKalkulagailua.dll
+C:\Users\Jon\Desktop\Interfaze Garapena\VS\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\obj\Debug\net6.0-windows\OinarrizkoKalkulagailua.pdb
+C:\Users\Jon\Desktop\Interfaze Garapena\VS\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\obj\Debug\net6.0-windows\OinarrizkoKalkulagailua.genruntimeconfig.cache
+C:\Users\Jon\Desktop\Interfaze Garapena\VS\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\obj\Debug\net6.0-windows\ref\OinarrizkoKalkulagailua.dll
