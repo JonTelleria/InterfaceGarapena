@@ -1,0 +1,16 @@
+C:\Users\Jon\Desktop\Interfaze Garapena\VISUALSTUDIO\InterfaceGarapena\Ariketa2(ariketa matematikoa)\Ariketa2(ariketa matematikoa)\obj\Debug\net6.0-windows\Ariketa2.Form1.resources
+C:\Users\Jon\Desktop\Interfaze Garapena\VISUALSTUDIO\InterfaceGarapena\Ariketa2(ariketa matematikoa)\Ariketa2(ariketa matematikoa)\obj\Debug\net6.0-windows\Ariketa2(ariketa matematikoa).csproj.GenerateResource.cache
+C:\Users\Jon\Desktop\Interfaze Garapena\VISUALSTUDIO\InterfaceGarapena\Ariketa2(ariketa matematikoa)\Ariketa2(ariketa matematikoa)\obj\Debug\net6.0-windows\Ariketa2(ariketa matematikoa).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jon\Desktop\Interfaze Garapena\VISUALSTUDIO\InterfaceGarapena\Ariketa2(ariketa matematikoa)\Ariketa2(ariketa matematikoa)\obj\Debug\net6.0-windows\Ariketa2(ariketa matematikoa).AssemblyInfoInputs.cache
+C:\Users\Jon\Desktop\Interfaze Garapena\VISUALSTUDIO\InterfaceGarapena\Ariketa2(ariketa matematikoa)\Ariketa2(ariketa matematikoa)\obj\Debug\net6.0-windows\Ariketa2(ariketa matematikoa).AssemblyInfo.cs
+C:\Users\Jon\Desktop\Interfaze Garapena\VISUALSTUDIO\InterfaceGarapena\Ariketa2(ariketa matematikoa)\Ariketa2(ariketa matematikoa)\obj\Debug\net6.0-windows\Ariketa2(ariketa matematikoa).csproj.CoreCompileInputs.cache
+C:\Users\Jon\Desktop\Interfaze Garapena\VISUALSTUDIO\InterfaceGarapena\Ariketa2(ariketa matematikoa)\Ariketa2(ariketa matematikoa)\bin\Debug\net6.0-windows\Ariketa2(ariketa matematikoa).exe
+C:\Users\Jon\Desktop\Interfaze Garapena\VISUALSTUDIO\InterfaceGarapena\Ariketa2(ariketa matematikoa)\Ariketa2(ariketa matematikoa)\bin\Debug\net6.0-windows\Ariketa2(ariketa matematikoa).deps.json
+C:\Users\Jon\Desktop\Interfaze Garapena\VISUALSTUDIO\InterfaceGarapena\Ariketa2(ariketa matematikoa)\Ariketa2(ariketa matematikoa)\bin\Debug\net6.0-windows\Ariketa2(ariketa matematikoa).runtimeconfig.json
+C:\Users\Jon\Desktop\Interfaze Garapena\VISUALSTUDIO\InterfaceGarapena\Ariketa2(ariketa matematikoa)\Ariketa2(ariketa matematikoa)\bin\Debug\net6.0-windows\Ariketa2(ariketa matematikoa).dll
+C:\Users\Jon\Desktop\Interfaze Garapena\VISUALSTUDIO\InterfaceGarapena\Ariketa2(ariketa matematikoa)\Ariketa2(ariketa matematikoa)\bin\Debug\net6.0-windows\Ariketa2(ariketa matematikoa).pdb
+C:\Users\Jon\Desktop\Interfaze Garapena\VISUALSTUDIO\InterfaceGarapena\Ariketa2(ariketa matematikoa)\Ariketa2(ariketa matematikoa)\obj\Debug\net6.0-windows\Ariketa2(ariketa matematikoa).dll
+C:\Users\Jon\Desktop\Interfaze Garapena\VISUALSTUDIO\InterfaceGarapena\Ariketa2(ariketa matematikoa)\Ariketa2(ariketa matematikoa)\obj\Debug\net6.0-windows\refint\Ariketa2(ariketa matematikoa).dll
+C:\Users\Jon\Desktop\Interfaze Garapena\VISUALSTUDIO\InterfaceGarapena\Ariketa2(ariketa matematikoa)\Ariketa2(ariketa matematikoa)\obj\Debug\net6.0-windows\Ariketa2(ariketa matematikoa).pdb
+C:\Users\Jon\Desktop\Interfaze Garapena\VISUALSTUDIO\InterfaceGarapena\Ariketa2(ariketa matematikoa)\Ariketa2(ariketa matematikoa)\obj\Debug\net6.0-windows\Ariketa2(ariketa matematikoa).genruntimeconfig.cache
+C:\Users\Jon\Desktop\Interfaze Garapena\VISUALSTUDIO\InterfaceGarapena\Ariketa2(ariketa matematikoa)\Ariketa2(ariketa matematikoa)\obj\Debug\net6.0-windows\ref\Ariketa2(ariketa matematikoa).dll
