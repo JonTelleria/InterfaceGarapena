@@ -128,6 +128,7 @@ namespace Ariketa2
 
             tbEmaitza.Clear();
             lbZenbakia.Text = "1. zenbakia";
+            a = 0;
 
 
 
